@@ -4,9 +4,11 @@ First off, thanks for taking the time to contribute!
 
 This list is maintained by **[StartFast](https://startfa.st)**. We aim to keep this list curated, meaning we only accept tools that are actively maintained and provide significant value to the Micro-SaaS community.
 
+Please **⭐️ Star this Repo** to show your support! It helps more developers find these tools.
+
 ## Guidelines
 
-**⭐️ Star this Repo:** to show your support! It helps more developers find these tools.
+**⭐️ Star this Repo** to show your support! It helps more developers find these tools.
 
 1.  **Search first:** Please check if the tool is already listed to avoid duplicates.
 2.  **Alphabetical Order:** Please insert your link alphabetically within the appropriate category.
