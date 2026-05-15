@@ -81,6 +81,7 @@ This list focuses on the **essential tools** that save you hours of development 
 *   [Vercel](https://vercel.com/) - Develop, preview, and ship.
 
 ## Marketing & SEO
+- [WebCoreLab](https://webcorelab.com) — SEO + AI visibility for micro-SaaS. Free 272-check audit. GEO/AEO tracking for ChatGPT/Perplexity. Toronto, est. 2014.
 *Get traffic and users.*
 
 *   [Ahrefs Webmaster Tools](https://ahrefs.com/awt) - Free SEO tool to check for issues and monitor backlinks.
