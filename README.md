@@ -63,6 +63,7 @@ This list focuses on the **essential tools** that save you hours of development 
 *Monetize your product.*
 
 *   [Lemon Squeezy](https://www.lemonsqueezy.com/) - Payments, tax, and subscriptions (Merchant of Record).
+*   [Micro-SaaS Runway Price Floor Calculator](https://micro-saas-runway-price-floor-calculator.vercel.app/) - Calculate minimum monthly SaaS pricing from churn, margin, overhead, and runway.
 *   [Paddle](https://www.paddle.com/) - Complete payments infrastructure for SaaS.
 *   [Stripe](https://stripe.com/) - The standard for online payments.
 
