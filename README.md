@@ -86,6 +86,7 @@ This list focuses on the **essential tools** that save you hours of development 
 *   [Ahrefs Webmaster Tools](https://ahrefs.com/awt) - Free SEO tool to check for issues and monitor backlinks.
 *   [Carrd](https://carrd.co/) - Simple, free, fully responsive one-page sites for landing pages.
 *   [Senja](https://senja.io/) - Collect and share video and text testimonials.
+*   [One Person Company](https://onepersoncompany.com) - 317 skill guides and a complete SEO playbook to grow your micro-SaaS solo, no team needed.
 
 ## Analytics & Insights
 *Understand your users.*
