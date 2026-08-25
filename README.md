@@ -64,6 +64,7 @@ This list focuses on the **essential tools** that save you hours of development 
 
 *   [Lemon Squeezy](https://www.lemonsqueezy.com/) - Payments, tax, and subscriptions (Merchant of Record).
 *   [Paddle](https://www.paddle.com/) - Complete payments infrastructure for SaaS.
+*   [Toolkit Labs Invoice](https://ytinumoc.github.io/toolkitlabs-invoice/) - Browser invoice PDF; [commercial license EUR 249](https://buy.stripe.com/bJeeVea187TScZwb095Ne0k?client_reference_id=awesome-micro-saas-v1).
 *   [Stripe](https://stripe.com/) - The standard for online payments.
 
 ## Design & UI Libraries
