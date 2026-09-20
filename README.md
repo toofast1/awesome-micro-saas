@@ -4,7 +4,7 @@
 
 **Maintained by [StartFast](https://startfa.st) — The directory for startup tools.**
 
-**Launch your SaaS, Startup, Product or AI tool on [LaunchOn.it](https://launchon.it). Get a week of full visibility and re-launch when you have new updates.
+**Launch your SaaS, Startup, Product or AI tool on [LaunchOn.it](https://launchon.it). Get a week of full visibility and re-launch when you have new updates.**
 
 This list focuses on the **essential tools** that save you hours of development or marketing time.
 
