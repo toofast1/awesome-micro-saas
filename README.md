@@ -62,6 +62,7 @@ This list focuses on the **essential tools** that save you hours of development 
 *   [Supabase](https://supabase.com/) - The open source Firebase alternative.
 
 ## Payments & Billing
+*   [Client Close Kit](https://darweesh128-cmd.github.io/client-close-kit/) - Free browser-only freelance invoice, quote, and [statement of account](https://darweesh128-cmd.github.io/client-close-kit/statement-of-account.html) generators (MIT).
 *Monetize your product.*
 
 *   [Lemon Squeezy](https://www.lemonsqueezy.com/) - Payments, tax, and subscriptions (Merchant of Record).
