@@ -87,6 +87,7 @@ This list focuses on the **essential tools** that save you hours of development 
 
 *   [Ahrefs Webmaster Tools](https://ahrefs.com/awt) - Free SEO tool to check for issues and monitor backlinks.
 *   [Carrd](https://carrd.co/) - Simple, free, fully responsive one-page sites for landing pages.
+*   [Power CM Partners](https://partners.powercm-software.com/) - Partner network for software products with tracked campaigns, attribution, sales and commission reporting.
 *   [Senja](https://senja.io/) - Collect and share video and text testimonials.
 
 ## Analytics & Insights
