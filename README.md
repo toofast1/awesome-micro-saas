@@ -64,6 +64,7 @@ This list focuses on the **essential tools** that save you hours of development 
 ## Payments & Billing
 *Monetize your product.*
 
+*   [AgentaOS](https://agentaos.ai/) - Merchant of record for cards and subscriptions, with payouts to your own bank and no company abroad needed.
 *   [Lemon Squeezy](https://www.lemonsqueezy.com/) - Payments, tax, and subscriptions (Merchant of Record).
 *   [Paddle](https://www.paddle.com/) - Complete payments infrastructure for SaaS.
 *   [Stripe](https://stripe.com/) - The standard for online payments.
