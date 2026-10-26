@@ -45,6 +45,7 @@ This list focuses on the **essential tools** that save you hours of development 
 *   [LangChain](https://www.langchain.com/) - Framework for developing applications powered by language models.
 *   [OpenAI API](https://openai.com/blog/openai-api) - The standard for LLM integration.
 *   [Vercel AI SDK](https://sdk.vercel.ai/docs) - The TypeScript toolkit for building AI-powered applications.
+* [Mode VC Founder Capital & Equity Workbench](https://modevc.com/tools/) - 18 free browser-side startup calculators for founders: SAFE & option pool dilution, 409A strike price, ISO vs. NSO AMT tax, Venture Debt vs. Equity, ESOP grants, and LLM/GPU unit economics.
 
 ## Authentication
 *Secure user login.*
