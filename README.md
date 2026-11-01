@@ -25,6 +25,7 @@ This list focuses on the **essential tools** that save you hours of development 
 - [Payments & Billing](#payments--billing)
 - [Design & UI Libraries](#design--ui-libraries)
 - [Hosting & Deployment](#hosting--deployment)
+- [Testing & QA](#testing--qa)
 - [Marketing & SEO](#marketing--seo)
 - [Analytics & Insights](#analytics--insights)
 - [Legal & Compliance](#legal--compliance)
@@ -83,6 +84,11 @@ This list focuses on the **essential tools** that save you hours of development 
 *   [Coolify](https://coolify.io/) - Open-source, self-hostable Heroku/Vercel alternative.
 *   [Railway](https://railway.app/) - Infrastructure, instantly.
 *   [Vercel](https://vercel.com/) - Develop, preview, and ship.
+
+## Testing & QA
+*Check user flows before shipping.*
+
+*   [agent-qa](https://vostride.com) - Natural-language web and mobile QA with persistent memory and evidence-gated self-improvement.
 
 ## Marketing & SEO
 *Get traffic and users.*
