@@ -48,6 +48,7 @@ This list focuses on the **essential tools** that save you hours of development 
 
 ## Authentication
 *Secure user login.*
+
 *   [Better-Auth](https://better-auth.com/) - The most comprehensive, TypeScript-first authentication library.
 *   [Clerk](https://clerk.com/) - Complete user management, designed for modern React/Next.js apps.
 *   [NextAuth.js](https://next-auth.js.org/) - Open source authentication for Next.js.
@@ -87,8 +88,13 @@ This list focuses on the **essential tools** that save you hours of development 
 *Get traffic and users.*
 
 *   [Ahrefs Webmaster Tools](https://ahrefs.com/awt) - Free SEO tool to check for issues and monitor backlinks.
+*   [Ballast](https://ballast.to) - Cold email and B2B outreach platform with unlimited mailboxes, automated warmups, and a unified inbox.
 *   [Carrd](https://carrd.co/) - Simple, free, fully responsive one-page sites for landing pages.
+*   [LaunchDistro](https://launchdistro.com) - Submit your startup to 500+ directories using Claude or Cursor and verify live backlinks.
+*   [LaunchOnIt](https://launchon.it) - Product launch platform providing startups with a full week of homepage visibility and re-launches on updates.
+*   [Picked](https://picked.so) - AI search & GEO tracking to monitor and boost how ChatGPT, Claude, and Perplexity recommend your product.
 *   [Senja](https://senja.io/) - Collect and share video and text testimonials.
+*   [StartFast](https://startfa.st) - Curated directory of startup tools and AI stacks for early distribution.
 
 ## Analytics & Insights
 *Understand your users.*
