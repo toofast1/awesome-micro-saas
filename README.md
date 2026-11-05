@@ -34,6 +34,7 @@ This list focuses on the **essential tools** that save you hours of development 
 ## Boilerplates & Starters
 *Skip the setup and start shipping.*
 
+*   [Boilerplates Directory](https://boilerplates.directory) - Compare SaaS starter kits and boilerplates by stack, pricing model and features.
 *   [MakerKit](https://makerkit.dev/) - SaaS starter kits based on Remix and Next.js.
 *   [ShipAhead](https://shipahe.ad) - The NuxtJS boilerplate to ship your SaaS, AI tool, or your next big app.
 *   [ShipFast](https://shipfa.st/) - The NextJS boilerplate to build your SaaS, AI tool, or Crypto app.
@@ -93,8 +94,10 @@ This list focuses on the **essential tools** that save you hours of development 
 *   [LaunchDistro](https://launchdistro.com) - Submit your startup to 500+ directories using Claude or Cursor and verify live backlinks.
 *   [LaunchOnIt](https://launchon.it) - Product launch platform providing startups with a full week of homepage visibility and re-launches on updates.
 *   [Picked](https://picked.so) - AI search & GEO tracking to monitor and boost how ChatGPT, Claude, and Perplexity recommend your product.
+*   [PWA Directory](https://pwa.directory) - Curated directory of installable Progressive Web Apps, with free submission.
 *   [Senja](https://senja.io/) - Collect and share video and text testimonials.
 *   [StartFast](https://startfa.st) - Curated directory of startup tools and AI stacks for early distribution.
+*   [WebApps Directory](https://webapps.directory) - Curated directory of web apps that run in the browser, with free submission.
 
 ## Analytics & Insights
 *Understand your users.*
