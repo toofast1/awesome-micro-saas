@@ -92,6 +92,7 @@ This list focuses on the **essential tools** that save you hours of development 
 *   [Carrd](https://carrd.co/) - Simple, free, fully responsive one-page sites for landing pages.
 *   [LaunchDistro](https://launchdistro.com) - Submit your startup to 500+ directories using Claude or Cursor and verify live backlinks.
 *   [LaunchOnIt](https://launchon.it) - Product launch platform providing startups with a full week of homepage visibility and re-launches on updates.
+*   [MailVeri](https://mailveri.com) - Pay-as-you-go email verification API and bulk list cleaning; 1,000 free credits.
 *   [Picked](https://picked.so) - AI search & GEO tracking to monitor and boost how ChatGPT, Claude, and Perplexity recommend your product.
 *   [Senja](https://senja.io/) - Collect and share video and text testimonials.
 *   [StartFast](https://startfa.st) - Curated directory of startup tools and AI stacks for early distribution.
