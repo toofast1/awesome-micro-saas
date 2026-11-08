@@ -99,6 +99,7 @@ This list focuses on the **essential tools** that save you hours of development 
 ## Analytics & Insights
 *Understand your users.*
 
+*   [igtrackr](https://igtrackr.com/tools/insights-checker) - Instagram insights for any public account: posting times, top content. No login.
 *   [Plausible](https://plausible.io/) - Lightweight and open-source Google Analytics alternative.
 *   [PostHog](https://posthog.com/) - Product analytics, session recording, feature flags, and A/B testing.
 
