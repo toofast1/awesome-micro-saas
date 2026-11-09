@@ -87,6 +87,7 @@ This list focuses on the **essential tools** that save you hours of development 
 ## Marketing & SEO
 *Get traffic and users.*
 
+*   [AdVariq](https://advariq.com/) - AI ad creative and product marketing visual generator for DTC brands and digital marketers.
 *   [Ahrefs Webmaster Tools](https://ahrefs.com/awt) - Free SEO tool to check for issues and monitor backlinks.
 *   [Ballast](https://ballast.to) - Cold email and B2B outreach platform with unlimited mailboxes, automated warmups, and a unified inbox.
 *   [Carrd](https://carrd.co/) - Simple, free, fully responsive one-page sites for landing pages.
