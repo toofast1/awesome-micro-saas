@@ -90,6 +90,7 @@ This list focuses on the **essential tools** that save you hours of development 
 *   [Ahrefs Webmaster Tools](https://ahrefs.com/awt) - Free SEO tool to check for issues and monitor backlinks.
 *   [Ballast](https://ballast.to) - Cold email and B2B outreach platform with unlimited mailboxes, automated warmups, and a unified inbox.
 *   [Carrd](https://carrd.co/) - Simple, free, fully responsive one-page sites for landing pages.
+*   [EarlyLore](https://earlylore.com/) - Validates product ideas against real competitors, demand, pricing, and entry angles.
 *   [LaunchDistro](https://launchdistro.com) - Submit your startup to 500+ directories using Claude or Cursor and verify live backlinks.
 *   [LaunchOnIt](https://launchon.it) - Product launch platform providing startups with a full week of homepage visibility and re-launches on updates.
 *   [Picked](https://picked.so) - AI search & GEO tracking to monitor and boost how ChatGPT, Claude, and Perplexity recommend your product.
