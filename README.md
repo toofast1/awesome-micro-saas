@@ -44,7 +44,7 @@ This list focuses on the **essential tools** that save you hours of development 
 
 *   [LangChain](https://www.langchain.com/) - Framework for developing applications powered by language models.
 *   [OpenAI API](https://openai.com/blog/openai-api) - The standard for LLM integration.
-*   [Prompt Generator](https://trypromptgenerator.com) - Writes prompts for ChatGPT, Claude, Midjourney, Veo and other AI tools. Free, no sign-up.
+*   [Prompt Generator](https://trypromptgenerator.com) - Writes prompts for ChatGPT, Claude, Midjourney, Veo and other AI tools. Free daily allowance, no sign-up.
 *   [Vercel AI SDK](https://sdk.vercel.ai/docs) - The TypeScript toolkit for building AI-powered applications.
 
 ## Authentication
