@@ -95,6 +95,7 @@ This list focuses on the **essential tools** that save you hours of development 
 *   [Picked](https://picked.so) - AI search & GEO tracking to monitor and boost how ChatGPT, Claude, and Perplexity recommend your product.
 *   [Senja](https://senja.io/) - Collect and share video and text testimonials.
 *   [StartFast](https://startfa.st) - Curated directory of startup tools and AI stacks for early distribution.
+*   [Vaneform](https://vaneform.com/) - Free website traffic estimates, trends, and source mix.
 
 ## Analytics & Insights
 *Understand your users.*
