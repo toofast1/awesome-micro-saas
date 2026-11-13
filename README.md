@@ -38,6 +38,7 @@ This list focuses on the **essential tools** that save you hours of development 
 *   [ShipAhead](https://shipahe.ad) - The NuxtJS boilerplate to ship your SaaS, AI tool, or your next big app.
 *   [ShipFast](https://shipfa.st/) - The NextJS boilerplate to build your SaaS, AI tool, or Crypto app.
 *   [StartFast](https://startfa.st) - A curated directory to find the perfect stack and tools for your launch.
+*   [Wavegrain](https://wavegrain.com) - Curated TikTok slideshows and Instagram carousels for your brand, scheduled and posted for you.
 
 ## AI & LLM Tools
 *Integrate intelligence into your app.*
