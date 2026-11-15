@@ -88,6 +88,7 @@ This list focuses on the **essential tools** that save you hours of development 
 *Get traffic and users.*
 
 *   [Ahrefs Webmaster Tools](https://ahrefs.com/awt) - Free SEO tool to check for issues and monitor backlinks.
+*   [AppScreen](https://appscreen.pro/) - Free in-browser editor for App Store and Google Play screenshots with device frames.
 *   [Ballast](https://ballast.to) - Cold email and B2B outreach platform with unlimited mailboxes, automated warmups, and a unified inbox.
 *   [Carrd](https://carrd.co/) - Simple, free, fully responsive one-page sites for landing pages.
 *   [LaunchDistro](https://launchdistro.com) - Submit your startup to 500+ directories using Claude or Cursor and verify live backlinks.
