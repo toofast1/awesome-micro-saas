@@ -42,6 +42,7 @@ This list focuses on the **essential tools** that save you hours of development 
 ## AI & LLM Tools
 *Integrate intelligence into your app.*
 
+*   [GetYouTubeTranscript API](https://getyoutubetranscript.com/docs) - REST API for YouTube video transcripts, search, channels and playlists.
 *   [LangChain](https://www.langchain.com/) - Framework for developing applications powered by language models.
 *   [OpenAI API](https://openai.com/blog/openai-api) - The standard for LLM integration.
 *   [Vercel AI SDK](https://sdk.vercel.ai/docs) - The TypeScript toolkit for building AI-powered applications.
