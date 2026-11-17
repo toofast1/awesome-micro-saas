@@ -99,6 +99,7 @@ This list focuses on the **essential tools** that save you hours of development 
 ## Analytics & Insights
 *Understand your users.*
 
+*   [Lomen Analytics](https://lomenanalytics.com/) - Website analytics with a cookie-free tracking script and an AI chat for traffic questions.
 *   [Plausible](https://plausible.io/) - Lightweight and open-source Google Analytics alternative.
 *   [PostHog](https://posthog.com/) - Product analytics, session recording, feature flags, and A/B testing.
 
