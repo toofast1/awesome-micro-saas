@@ -34,6 +34,7 @@ This list focuses on the **essential tools** that save you hours of development 
 ## Boilerplates & Starters
 *Skip the setup and start shipping.*
 
+*   [Helpful Mods Foundation Kit](https://helpfulmods.com/foundation/) - React and Vite SaaS starter with Firebase sign-in, Stripe billing, team workspaces, and tests.
 *   [MakerKit](https://makerkit.dev/) - SaaS starter kits based on Remix and Next.js.
 *   [ShipAhead](https://shipahe.ad) - The NuxtJS boilerplate to ship your SaaS, AI tool, or your next big app.
 *   [ShipFast](https://shipfa.st/) - The NextJS boilerplate to build your SaaS, AI tool, or Crypto app.
