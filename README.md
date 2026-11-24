@@ -73,6 +73,7 @@ This list focuses on the **essential tools** that save you hours of development 
 ## Design & UI Libraries
 *Look professional without a designer.*
 
+*   [Kite](https://kite.new/) - Collaborative design tool where AI agents draw editable UI layers alongside your team.
 *   [Lucide](https://lucide.dev/) - Beautiful & consistent icon toolkit.
 *   [shadcn/ui](https://ui.shadcn.com/) - Beautifully designed components that you can copy and paste.
 *   [Tailwind UI](https://tailwindui.com/) - Official Tailwind CSS components (Paid).
