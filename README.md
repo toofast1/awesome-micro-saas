@@ -94,6 +94,7 @@ This list focuses on the **essential tools** that save you hours of development 
 *   [LaunchOnIt](https://launchon.it) - Product launch platform providing startups with a full week of homepage visibility and re-launches on updates.
 *   [Picked](https://picked.so) - AI search & GEO tracking to monitor and boost how ChatGPT, Claude, and Perplexity recommend your product.
 *   [Senja](https://senja.io/) - Collect and share video and text testimonials.
+*   [Sitewalk for ChatGPT](https://sitewalkseo.com/) - Technical SEO audits inside ChatGPT with ranked fixes and email alerts.
 *   [StartFast](https://startfa.st) - Curated directory of startup tools and AI stacks for early distribution.
 
 ## Analytics & Insights
